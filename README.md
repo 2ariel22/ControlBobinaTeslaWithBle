@@ -51,7 +51,7 @@
 
 
 ## 📁 Acceso al proyecto
-*Debes conectarte mediante bluetooth al dispositivo "Bobina Tesla" y descargar de la play Store la aplicacion "Serial Bluetooth Terminal" *
+*Debes conectarte mediante bluetooth al dispositivo "Bobina Tesla" y descargar de la play Store la aplicacion "Serial Bluetooth Terminal"*
 
 ## 🛠️ ejecuta el proyecto
 
